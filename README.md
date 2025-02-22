@@ -84,7 +84,4 @@ Feel free to fork this repository, create feature branches, and submit pull requ
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any questions or support, reach out via:
-- Email: your-email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
